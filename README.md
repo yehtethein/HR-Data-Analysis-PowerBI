@@ -7,6 +7,18 @@ The dashboard helps analyze employee data to identify trends related to attritio
 ## Project File
 - `HR Data Analysis.pbix` – Main Power BI dashboard file
 
+## 🖼 Dashboard Preview
+
+![Dashboard Preview](images/coffee_shop_2023_dashboard.jpg)
+
+## 📂 Project Structure
+HR-Data-Analysis_PowerBI/
+│
+├── datasets/
+├── HR Data Analysis.pbix
+├── README.md
+└── dashboard-screenshot.png
+
 ## Key Insights
 The dashboard analyzes:
 
