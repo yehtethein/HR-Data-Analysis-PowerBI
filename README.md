@@ -15,9 +15,13 @@ The dashboard helps analyze employee data to identify trends related to attritio
 HR-Data-Analysis_PowerBI/
 │
 ├── datasets/
+
 ├── HR Data Analysis.pbix
+
 ├── README.md
+
 └── dashboard-screenshot.png
+
 
 ## Key Insights
 The dashboard analyzes:
