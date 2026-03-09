@@ -54,4 +54,5 @@ The dashboard analyzes:
 This project demonstrates how HR data can be visualized to support data-driven decision making in organizations.
 
 ## Author
-Ye Htet Hein
+Ye Htet Hein  
+Data Analyst | Business Intelligence Enthusiast
